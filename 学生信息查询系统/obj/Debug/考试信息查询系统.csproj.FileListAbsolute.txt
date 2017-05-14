@@ -1,0 +1,16 @@
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\bin\Debug\学生信息查询系统.exe.config
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.exe
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.pdb
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\bin\Debug\学生信息查询系统.exe
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\bin\Debug\学生信息查询系统.pdb
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\考试信息查询系统.csprojResolveAssemblyReference.cache
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Form1.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Form2.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Form3.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Form4.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Form5.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Form6.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.登录界面.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.主界面.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\学生信息查询系统.Properties.Resources.resources
+C:\Users\14150\Desktop\工作室\学生信息查询系统\学生信息查询系统\obj\Debug\考试信息查询系统.csproj.GenerateResource.Cache
